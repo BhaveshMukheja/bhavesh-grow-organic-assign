@@ -1,4 +1,3 @@
-
 import Dashboard from './pages/Dashboard/page'
 
 import './App.css'
